@@ -11,3 +11,5 @@ tokenizer_roberta_v1
 
 resume_v1.csv
 resume_v2.csv
+
+glove.6B.300d.txt
