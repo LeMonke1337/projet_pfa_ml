@@ -1,0 +1,13 @@
+tokenizer_v2
+tokenizer_v3
+model_albert_v1
+model_roberta_v1
+model_v2
+model_v3
+occupation_recommender_model
+occupation_recommender_tokenizer
+tokenizer_albert_v1
+tokenizer_roberta_v1
+
+resume_v1.csv
+resume_v2.csv

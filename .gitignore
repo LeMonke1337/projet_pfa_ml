@@ -1,0 +1,6 @@
+node_modules
+package-lock.json 
+package.json
+key
+services/routes/model/model_v3
+services/routes/model/tokenizer_v3
