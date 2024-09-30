@@ -1,0 +1,33 @@
+Test Accuracy: 0.09
+
+Classification Report:
+                        precision    recall  f1-score   support
+
+            accountant       0.00      0.00      0.00        24
+              advocate       0.00      0.00      0.00        24
+           agriculture       0.00      0.00      0.00        13
+               apparel       0.00      0.00      0.00        19
+                  arts       0.14      0.05      0.07        21
+            automobile       0.00      0.00      0.00         7
+              aviation       0.00      0.00      0.00        24
+               banking       0.00      0.00      0.00        23
+                   bpo       0.00      0.00      0.00         4
+  business-development       0.00      0.00      0.00        24
+                  chef       0.06      0.42      0.10        24
+          construction       0.00      0.00      0.00        22
+            consultant       0.00      0.00      0.00        23
+              designer       0.00      0.00      0.00        21
+         digital-media       0.00      0.00      0.00        19
+           engineering       0.00      0.00      0.00        24
+               finance       0.07      0.62      0.13        24
+               fitness       0.00      0.00      0.00        23
+            healthcare       0.00      0.00      0.00        23
+                    hr       0.00      0.00      0.00        22
+information-technology       0.00      0.00      0.00        24
+      public-relations       0.00      0.00      0.00        22
+                 sales       0.17      0.04      0.07        23
+               teacher       0.19      0.90      0.31        20
+
+              accuracy                           0.09       497
+             macro avg       0.03      0.08      0.03       497
+          weighted avg       0.03      0.09      0.03       497
