@@ -2,7 +2,7 @@ from openai import OpenAI
 
 client = OpenAI()
 
-client.api_key = "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"
+client.api_key = "api key"
 
 
 async def is_gibberish(text):
